@@ -302,7 +302,7 @@
         "answer": "Answer",
         "audioCallTitle": "Incoming call",
         "decline": "Dismiss",
-        "productLabel": "from Jitsi Meet",
+        "productLabel": "from  Dread/'s Live Watch Party",
         "videoCallTitle": "Incoming video call"
     },
     "info": {
@@ -746,7 +746,7 @@
             "join": "Tap to join",
             "roomname": "Enter live watch party name"
         },
-        "appDescription": "Start a live watch party, invite everyone you know. Live stream to other platforms. {{app}} is fully encrypted, free and no account needed.",
+        "appDescription": "Start a live watch party, invite your live audience and then live stream to other platforms. {{app}} is fully encrypted, free and no account needed.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -769,7 +769,7 @@
         "roomnameHint": "Enter the name or URL of the live watch party you want to join. You may make a name up, just let the people you are live watch party know it so that they enter the same name.",
         "sendFeedback": "Send feedback",
         "terms": "Terms",
-        "title": "Live stream to a live watch party!"
+        "title": "Live stream from your live watch party!"
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",
